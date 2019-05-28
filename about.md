@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jason Klimock
+title: About
 permalink: /about/
 ---
 
